@@ -1,0 +1,103 @@
+Logfile of Trend Micro HijackThis v2.0.5
+Scan saved at 6:17:09 PM, on 1/2/2022
+Platform: Unknown Windows (WinNT 6.02.1008)
+MSIE: Internet Explorer v11.0 (11.00.22000.0120)
+
+
+Boot mode: Normal
+
+Running processes:
+D:\Games\Steam\steamapps\common\wallpaper_engine\wallpaper32.exe
+C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+C:\Program Files (x86)\IObit\Advanced SystemCare\ASCTray.exe
+C:\Users\Ken Thorne\AppData\Local\Discord\app-1.0.9003\Discord.exe
+C:\Users\Ken Thorne\AppData\Local\Discord\app-1.0.9003\Discord.exe
+C:\Users\Ken Thorne\AppData\Local\Discord\app-1.0.9003\Discord.exe
+C:\Users\Ken Thorne\AppData\Local\Discord\app-1.0.9003\Discord.exe
+C:\Users\Ken Thorne\AppData\Local\Discord\app-1.0.9003\Discord.exe
+C:\Users\Ken Thorne\AppData\Local\Discord\app-1.0.9003\Discord.exe
+C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+C:\Program Files (x86)\DroidCam\DroidCamApp.exe
+C:\Users\KENTHO~1\AppData\Local\Temp\scoped_dir992_1478081839\HijackThis.exe
+
+R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Search_URL = http://go.microsoft.com/fwlink/?LinkId=54896
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,SearchAssistant = 
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,CustomizeSearch = 
+R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Local Page = %11%\blank.htm
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysWOW64\blank.htm
+R1 - HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings,ProxyOverride = *.local
+R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
+F2 - REG:system.ini: UserInit=
+O2 - BHO: IEToEdge BHO - {1FD49718-1D00-4B19-AF5F-070AF6D5D54C} - C:\Program Files (x86)\Microsoft\Edge\Application\96.0.1054.62\BHO\ie_to_edge_bho.dll
+O2 - BHO: IObit Surfing Protection - {BA0C978D-D909-49B6-AFE2-8BDE245DC7E6} - C:\PROGRA~2\IObit\ADVANC~1\SURFIN~1\BROWER~1\ASCPLU~1.DLL
+O4 - HKLM\..\Run: [SunJavaUpdateSched] C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+O4 - HKLM\..\Run: [IObit Malware Fighter] "C:\Program Files (x86)\IObit\IObit Malware Fighter\IMF.exe" /autostart
+O4 - HKCU\..\Run: [Advanced SystemCare] "C:\Program Files (x86)\IObit\Advanced SystemCare\ASCTray.exe" /Auto
+O4 - HKCU\..\Run: [NordVPN] C:\Program Files\NordVPN\NordVPN.exe
+O4 - HKCU\..\Run: [Discord] C:\Users\Ken Thorne\AppData\Local\Discord\Update.exe --processStart Discord.exe
+O4 - HKCU\..\Run: [AudioRelay] "C:\Program Files (x86)\AudioRelay\AudioRelay.exe" -minimized
+O4 - HKCU\..\Run: [SuperF4] "C:\Users\Ken Thorne\AppData\Roaming\SuperF4\SuperF4.exe" -elevate
+O4 - HKCU\..\Run: [Grammarly] C:\Users\Ken Thorne\AppData\Local\Grammarly\DesktopIntegrations\Grammarly.Desktop.exe
+O4 - HKCU\..\Run: [electron.app.NordPass] C:\Users\Ken Thorne\AppData\Local\Programs\nordpass\NordPass.exe "--hidden"
+O10 - Unknown file in Winsock LSP: c:\windows\system32\nlansp_c.dll
+O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
+O17 - HKLM\System\CCS\Services\Tcpip\..\{23320f1c-3740-43b9-b502-77670c9b1a16}: NameServer = 1.1.1.1,1.0.0.1,8.8.8.8,8.8.4.4,103.86.96.100,103.86.99.100
+O17 - HKLM\System\CCS\Services\Tcpip\..\{fd562b84-a0bc-40c9-a9dd-886fc23ca565}: NameServer = 1.1.1.1,1.0.0.1
+O18 - Protocol: tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
+O18 - Protocol: windows.tbauth - {14654CA6-5711-491D-B89A-58E571679951} - C:\Windows\SysWOW64\tbauth.dll
+O23 - Service: Advanced SystemCare Service 15 (AdvancedSystemCareService15) - IObit - C:\Program Files (x86)\IObit\Advanced SystemCare\ASCService.exe
+O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\WINDOWS\System32\alg.exe (file missing)
+O23 - Service: AsusUpdateCheck - Unknown owner - C:\WINDOWS\System32\AsusUpdateCheck.exe (file missing)
+O23 - Service: BattlEye Service (BEService) - Unknown owner - C:\Program Files (x86)\Common Files\BattlEye\BEService.exe
+O23 - Service: Bonjour Service - Apple Inc. - C:\Program Files\Bonjour\mDNSResponder.exe
+O23 - Service: @%SystemRoot%\system32\CredentialEnrollmentManager.exe,-100 (CredentialEnrollmentManagerUserSvc) - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
+O23 - Service: CredentialEnrollmentManagerUserSvc_80af0 - Unknown owner - C:\WINDOWS\system32\CredentialEnrollmentManager.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.ServiceRes.dll,-1000 (diagnosticshub.standardcollector.service) - Unknown owner - C:\WINDOWS\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe (file missing)
+O23 - Service: EasyAntiCheat - Epic Games, Inc - C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe
+O23 - Service: Easy Anti-Cheat (Epic Online Services) (EasyAntiCheat_EOS) - Epic Games, Inc. - C:\Program Files (x86)\EasyAntiCheat_EOS\EasyAntiCheat_EOS.exe
+O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\WINDOWS\System32\lsass.exe (file missing)
+O23 - Service: Epic Online Services (EpicOnlineServices) - Epic Games, Inc. - C:\Program Files (x86)\Epic Games\Epic Online Services\service\EpicOnlineServicesHost.exe
+O23 - Service: EQU8_19 - Int3 Software AB - C:\ProgramData\EQU8\Totally Accurate Battlegrounds\bin\anticheat.x64.equ8.exe
+O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\WINDOWS\system32\fxssvc.exe (file missing)
+O23 - Service: NVIDIA FrameView SDK service (FvSvc) - NVIDIA - C:\Program Files\NVIDIA Corporation\FrameViewSDK\nvfvsdksvc_x64.exe
+O23 - Service: IMF Service (IMFservice) - IObit - C:\Program Files (x86)\IObit\IObit Malware Fighter\IMFsrv.exe
+O23 - Service: IObit Uninstaller Service (IObitUnSvr) - IObit - C:\Program Files (x86)\IObit\IObit Uninstaller\IUService.exe
+O23 - Service: @keyiso.dll,-100 (KeyIso) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
+O23 - Service: Logitech Gaming Registry Service (LogiRegistryService) - Logitech Inc. - C:\Program Files\Logitech Gaming Software\Drivers\APOService\LogiRegistryService.exe
+O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\WINDOWS\System32\msdtc.exe (file missing)
+O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
+O23 - Service: nordvpn-service - TEFINCOM S.A. - C:\Program Files\NordVPN\nordvpn-service.exe
+O23 - Service: NVIDIA LocalSystem Container (NvContainerLocalSystem) - NVIDIA Corporation - C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+O23 - Service: NVIDIA Display Container LS (NVDisplay.ContainerLocalSystem) - NVIDIA Corporation - C:\WINDOWS\System32\DriverStore\FileRepository\nvmdi.inf_amd64_697983dd21312b3c\Display.NvContainer\NVDisplay.Container.exe
+O23 - Service: Overwolf Updater Windows SCM (OverwolfUpdater) - Overwolf LTD - C:\Program Files (x86)\Overwolf\OverwolfUpdater.exe
+O23 - Service: Oculus VR Library Service (OVRLibraryService) - Facebook Technologies, LLC - C:\Program Files\Oculus\Support\oculus-librarian\OVRLibraryService.exe
+O23 - Service: Oculus VR Runtime Service (OVRService) - Facebook Technologies, LLC - C:\Program Files\Oculus\Support\oculus-runtime\OVRServiceLauncher.exe
+O23 - Service: @%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe,-101 (perceptionsimulation) - Unknown owner - C:\WINDOWS\system32\PerceptionSimulation\PerceptionSimulationService.exe (file missing)
+O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\WINDOWS\system32\locator.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
+O23 - Service: @%systemroot%\system32\SecurityHealthAgent.dll,-1002 (SecurityHealthService) - Unknown owner - C:\WINDOWS\system32\SecurityHealthService.exe (file missing)
+O23 - Service: @%ProgramFiles%\Windows Defender Advanced Threat Protection\MsSense.exe,-1001 (Sense) - Unknown owner - C:\Program Files (x86)\Windows Defender Advanced Threat Protection\MsSense.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\SensorDataService.exe,-101 (SensorDataService) - Unknown owner - C:\WINDOWS\System32\SensorDataService.exe (file missing)
+O23 - Service: @%SystemRoot%\System32\SgrmBroker.exe,-100 (SgrmBroker) - Unknown owner - C:\WINDOWS\system32\SgrmBroker.exe (file missing)
+O23 - Service: @%systemroot%\system32\spectrum.exe,-101 (spectrum) - Unknown owner - C:\WINDOWS\system32\spectrum.exe (file missing)
+O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\WINDOWS\System32\spoolsv.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\WINDOWS\system32\sppsvc.exe (file missing)
+O23 - Service: Steam Client Service - Valve Corporation - C:\Program Files (x86)\Common Files\Steam\steamservice.exe
+O23 - Service: @%SystemRoot%\system32\TieringEngineService.exe,-702 (TieringEngineService) - Unknown owner - C:\WINDOWS\system32\TieringEngineService.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\WINDOWS\system32\lsass.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\WINDOWS\System32\vds.exe (file missing)
+O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\WINDOWS\system32\vssvc.exe (file missing)
+O23 - Service: Wallpaper Engine Service - Unknown owner - D:\Games\Steam\steamapps\common\wallpaper_engine\bin\wallpaperservice32_c.exe
+O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown owner - C:\WINDOWS\system32\wbengine.exe (file missing)
+O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\WINDOWS\system32\wbem\WmiApSrv.exe (file missing)
+O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
+O23 - Service: XSplit VCam Updater (XSplit_VCam_Updater) - XSplit - C:\Program Files\XSplit\VCam\XSplit_VCam_Updater.exe
+O23 - Service: XSplit VCam Capture Source Service (XSpltVidSvc) - SplitmediaLabs Limited - C:\Program Files\XSplit\VCam\service\XSpltVidSvc.exe
+
+--
+End of file - 10977 bytes
